@@ -13,4 +13,7 @@ public interface USBDevice {
     void read();
     void write();
 }
-
+/**
+ * 模拟冲突。两人都在修改。我现在修改保存但是不提交
+ * 在另一台电脑上克隆你的仓库，修改 USBDevice.java 同一段代码，提交并推送。
+ */
