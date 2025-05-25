@@ -13,3 +13,4 @@ public interface USBDevice {
     void read();
     void write();
 }
+// 我在这写一段注释验证冲突
