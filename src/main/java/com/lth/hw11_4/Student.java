@@ -3,9 +3,7 @@ package com.lth.hw11_4;
 /**
  * @Author lth
  * @ProjectName hw11_4
- * @Date 2024/12/18
- * @WeChat：L2503180903
- * @QQ：2503180903
+ * @Date 2024/12
  * @公众号：hehe
  * @博 客：secret
  * @apiNote
